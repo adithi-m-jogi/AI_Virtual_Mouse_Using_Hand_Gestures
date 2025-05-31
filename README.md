@@ -1,4 +1,4 @@
-This is python project which uses hands dataset from mediapipe library and the main aim of this project is to control mouse movement with hand gestures.
+This is a python project which uses hands dataset from mediapipe library and the main aim of this project is to control mouse movement with hand gestures.
 It can do 5 operations:
 1.Move the mouse
 2.Left click
